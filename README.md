@@ -6,6 +6,7 @@ I specialize in data analysis and web scraping. Currently based in Dublin,
 I'm eager to contribute to impactful projects and collaborate within the tech community.
 
 🌱 I’m currently learning advanced data visualization techniques
+
 📫 How to reach me: gabrielmelogarcia.ie@gmail.com
 
 Skills
